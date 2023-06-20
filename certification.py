@@ -1,0 +1,5 @@
+a=input("Enter Your name ")
+b=input("Enter the second name ")
+c=int(input("Enter your Age "))
+d=input("Enter your Field")
+print("This is to certify that %s %s  age %d can be worked as a professional Technician in the field of %s" %(a,b,c,d))
